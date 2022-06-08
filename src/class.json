@@ -33,7 +33,7 @@
     "date": "2021-03-24"
   },
   {
-    "title": "퀴즈풀이 (캐로셀,체스)",
+    "title": "퀴즈풀이(캐로셀,체스)",
     "docUrl": "http://start-fe.surge.sh/dom/",
     "links": [],
     "gitUrl": "https://github.com/JwaSangHeon/start-fe/tree/main/05",
@@ -60,7 +60,7 @@
   },
   {
     "title": "중간고사",
-    "docUrl": "https://start-fe.surge.sh/js/",
+    "docUrl": "",
     "links": [],
     "gitUrl": "https://github.com/JwaSangHeon/contents-tab",
     "date": "2021-04-21"
@@ -104,5 +104,12 @@
     "links": ["https://ko.reactjs.org/"],
     "gitUrl": "",
     "date": "2021-06-02"
+  },
+  {
+    "title": "기말고사",
+    "docUrl": "",
+    "links": [],
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe-2022",
+    "date": "2021-06-09"
   }
 ]

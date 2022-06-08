@@ -13,3 +13,6 @@ a.badge {
   display: flex;
   justify-content: space-between;
 }
+.link {
+  margin: 0 1px;
+}
