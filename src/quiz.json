@@ -2,68 +2,74 @@
   {
     "title": "이미지 슬라이드",
     "docUrl": "https://gist.github.com/niceaji/640626074018a93ab4bced4dd9bdcf95",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/04/quiz1.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/04/quiz1.html"
   },
   {
     "title": "체스보드",
     "docUrl": "https://gist.github.com/niceaji/65beb90b5e2bd46b1c4b14abc81f63b4",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/04/quiz2/quiz2.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/04/quiz2/quiz2.html"
   },
   {
     "title": "DOM",
     "docUrl": "https://gist.github.com/niceaji/b134c92f662e1a8949e038bf8e95ba36",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/05/quiz3/quiz3.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/05/quiz3/quiz3.html"
   },
   {
     "title": "드래그 박스",
     "docUrl": "https://gist.github.com/niceaji/f5762a97e55e13f5f24e22c338ce702b",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/05/quiz4/quiz4.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/05/quiz4/quiz4.html"
   },
   {
     "title": "드래그 박스(여러개)",
     "docUrl": "https://gist.github.com/niceaji/e819a6ed3d876b7672467b1673bbf623",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/06/quiz5/index.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/06/quiz5/index.html"
   },
   {
     "title": "구구단",
     "docUrl": "https://gist.github.com/niceaji/f3411d118ba9c5b3bb88daeac4e48ad7",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/06/quiz6/index.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/06/quiz6/index.html"
   },
   {
     "title": "버그잡기 게임",
     "docUrl": "https://gist.github.com/niceaji/1f0fb355415f918e2e80153f130a672f",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/06/quiz7/index.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/06/quiz7/index.html"
   },
   {
     "title": "랜덤값 만들기",
     "docUrl": "https://gist.github.com/niceaji/451f93c54403fd8b61268d56f791e3b9",
-    "previewUrl": "",
-    "gitUrl": ""
-  },
-  {
-    "title": "모듈 만들기",
-    "docUrl": "https://gist.github.com/niceaji/c9826fbff5a15f04b1d29bce92780111",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/07/quiz8/index.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/07/quiz8/index.html"
   },
   {
     "title": "fetch() 예제",
     "docUrl": "https://advanced-webapps-class.github.io/classroom/2020/08/quiz9.html",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/start-fe/09/quiz9/quiz9.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/09/quiz9/quiz9.html"
+  },
+  {
+    "title": "api검색프로그램 예제",
+    "docUrl": "https://www.youtube.com/watch?v=pNPk_fmTdVg&t=2145s",
+    "previewUrl": "https://jwasangheon.github.io/start-fe/11/index.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/11/index.html"
+  },
+  {
+    "title": "모듈 만들기",
+    "docUrl": "https://gist.github.com/niceaji/c9826fbff5a15f04b1d29bce92780111",
+    "previewUrl": "https://jwasangheon.github.io/start-fe/12/quiz12/quiz12.html",
+    "gitUrl": "https://github.com/JwaSangHeon/start-fe/blob/main/12/quiz12/quiz12.html"
   },
   {
     "title": "중간고사",
     "docUrl": "https://github.com/advanced-webapps-class/classroom/tree/gh-pages/2021/test1",
-    "previewUrl": "",
-    "gitUrl": ""
+    "previewUrl": "https://jwasangheon.github.io/contents-tab/index.html",
+    "gitUrl": "https://github.com/JwaSangHeon/contents-tab/blob/main/index.html"
   },
   {
     "title": "기말고사",

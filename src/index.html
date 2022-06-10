@@ -23,7 +23,7 @@
         <h3>학습</h3>
         <div class="btnwrap">
           <!-- 학습리스트 필터 -->
-          <div class="btn-group" role="group">
+          <div class="btn-group" id="study-btn" role="group">
             <!-- 선택된 버튼에만 active 속성 추가 -->
             <button type="button" class="btn btn-outline-primary active">
               모두
@@ -40,9 +40,6 @@
       </div>
 
       <!-- loading중에 표시합니다. -->
-      <!-- <div class="spinner-border" role="status">
-        <span class="visually-hidden">Loading...</span>
-      </div> -->
       <table class="table">
         <thead>
           <tr>
@@ -129,11 +126,14 @@
           </tr> -->
         </tbody>
       </table>
+      <div class="spinner-border" id="spinner-study" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
       <div class="titlewrap">
         <h3>퀴즈</h3>
         <!-- 퀴즈리스트 필터 -->
         <div class="btnwrap">
-          <div class="btn-group" role="group">
+          <div class="btn-group" id="quiz-btn" role="group">
             <button type="button" class="btn btn-outline-primary active">
               모두
             </button>
@@ -143,9 +143,6 @@
       </div>
 
       <!-- loading중에 표시합니다. -->
-      <!-- <div class="spinner-border" role="status">
-        <span class="visually-hidden">Loading...</span>
-      </div> -->
       <table class="table">
         <thead>
           <tr>
@@ -159,8 +156,8 @@
             <th scope="col" width="100">실습</th>
           </tr>
         </thead>
-        <tbody>
-          <tr>
+        <tbody id="quiz">
+          <!-- <tr>
             <td>이미지슬라이드</td>
             <td>
               <a
@@ -183,9 +180,12 @@
             </td>
             <td><a href="">보기</a></td>
             <td><a href="">git</a></td>
-          </tr>
+          </tr> -->
         </tbody>
       </table>
+      <div class="spinner-border" id="spinner-quiz" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
     </div>
   </body>
   <script src="app.js"></script>
