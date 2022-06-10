@@ -14,7 +14,6 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <!-- 홍길동: 본인의 이름을 적어주세요 -->
         <a class="navbar-brand" href="/">나의 프론트엔드 개발기 (좌상헌)</a>
       </div>
     </nav>
@@ -24,7 +23,6 @@
         <div class="btnwrap">
           <!-- 학습리스트 필터 -->
           <div class="btn-group" id="study-btn" role="group">
-            <!-- 선택된 버튼에만 active 속성 추가 -->
             <button type="button" class="btn btn-outline-primary active">
               모두
             </button>
@@ -56,75 +54,7 @@
             <th scope="col" width="100">실습</th>
           </tr>
         </thead>
-        <tbody id="study">
-          <!-- <tr>
-            <th scope="row">1</th>
-            <td>수업소개</td>
-            <td>
-              <a href="https://start-fe.surge.sh" class="badge bg-secondary"
-                >문서</a
-              >
-            </td>
-            <td></td>
-            <td>2021-03-04</td>
-            <td>
-              <a
-                href="https://github.com/advanced-webapps-class/classroom/tree/gh-pages/2020/01"
-                >git</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">2</th>
-            <td>JS기본문법1</td>
-            <td>
-              <a href="https://start-fe.surge.sh/js/" class="badge bg-secondary"
-                >문서</a
-              >
-            </td>
-            <td></td>
-            <td>2021-03-11</td>
-            <td>
-              <a
-                href="https://github.com/advanced-webapps-class/classroom/tree/gh-pages/2020/02"
-                >git</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">3</th>
-            <td>JS기본문법2</td>
-            <td>
-              <a href="https://start-fe.surge.sh/js/" class="badge bg-secondary"
-                >문서</a
-              >
-            </td>
-            <td>
-              <a
-                href="https://developer.mozilla.org/ko/docs/Learn/Common_questions/What_is_a_URL"
-                class="badge bg-secondary"
-                >1</a
-              >
-              <a
-                href="https://www.slideshare.net/HyeonSeokChoi/http-1-59184615"
-                class="badge bg-secondary"
-                >2</a
-              >
-              <a
-                href="https://bbs.ruliweb.com/community/board/300143/read/51254624"
-                class="badge bg-secondary"
-                >3</a
-              >
-            </td>
-            <td>2021-03-18</td>
-            <td>
-              <a
-                href="https://github.com/advanced-webapps-class/classroom/tree/gh-pages/2020/03"
-                >git</a
-              >
-            </td>
-          </tr> -->
-        </tbody>
+        <tbody id="study"></tbody>
       </table>
       <div class="spinner-border" id="spinner-study" role="status">
         <span class="visually-hidden">Loading...</span>
@@ -141,8 +71,6 @@
           </div>
         </div>
       </div>
-
-      <!-- loading중에 표시합니다. -->
       <table class="table">
         <thead>
           <tr>
@@ -156,37 +84,12 @@
             <th scope="col" width="100">실습</th>
           </tr>
         </thead>
-        <tbody id="quiz">
-          <!-- <tr>
-            <td>이미지슬라이드</td>
-            <td>
-              <a
-                class="badge bg-secondary"
-                href="https://gist.github.com/niceaji/640626074018a93ab4bced4dd9bdcf95"
-                >문서</a
-              >
-            </td>
-            <td><a href="">보기</a></td>
-            <td><a href="">git</a></td>
-          </tr>
-          <tr>
-            <td>체스보드</td>
-            <td>
-              <a
-                class="badge bg-secondary"
-                href="https://gist.github.com/niceaji/640626074018a93ab4bced4dd9bdcf95"
-                >문서</a
-              >
-            </td>
-            <td><a href="">보기</a></td>
-            <td><a href="">git</a></td>
-          </tr> -->
-        </tbody>
+        <tbody id="quiz"></tbody>
       </table>
       <div class="spinner-border" id="spinner-quiz" role="status">
         <span class="visually-hidden">Loading...</span>
       </div>
     </div>
   </body>
-  <script src="app.js"></script>
+  <script src="app.js" type="module"></script>
 </html>
