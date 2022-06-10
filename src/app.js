@@ -1,4 +1,5 @@
 import { showQuiz, showStudy } from "./show.js";
+import "./app.css";
 
 const $study_btn = document.querySelector("#study-btn");
 const $quiz_btn = document.querySelector("#quiz-btn");
