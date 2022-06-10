@@ -1,7 +1,7 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
-const distPath = path.join(__dirname, "src", "docs");
+const distPath = path.join(__dirname, "docs");
 
 module.exports = {
   mode: "development",
